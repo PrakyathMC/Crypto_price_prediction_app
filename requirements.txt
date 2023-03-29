@@ -6,3 +6,5 @@ sklearn
 keras
 statsmodels
 matplotlib
+tensorflow
+keras
